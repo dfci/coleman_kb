@@ -1,0 +1,3 @@
+data/google_credentials.json
+colemankb/*.pyc
+test/__pycache__/
